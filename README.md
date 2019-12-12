@@ -6,7 +6,7 @@ Welcome! In this project, we aim to detect unpalatable questions in online disco
 The ```/src/``` folder contains the code for:
 - deep learning models in ```/deep-learning/```
 - traditional machine learning models and all the feature categories in ```/traditional-machine-learning/```
-- crowdsourcing annotations using Mechanical Turk API in ```/mturk/```. Check out <a href="https://docs.google.com/presentation/d/1hsLhWTNGkFxmvQnJk_qhdbn6uqH8MVno-vkZage7ZC4/edit?usp=sharing">this talk</a> for an introduction to MTurk and our workflow design.
+- crowdsourcing annotations using Mechanical Turk API in ```/mturk/```. Check out these <a href="https://docs.google.com/presentation/d/1hsLhWTNGkFxmvQnJk_qhdbn6uqH8MVno-vkZage7ZC4/edit?usp=sharing">slides</a> for an introduction to MTurk and our workflow design.
 - comparison of the two question filtering approaches: rule-based regex (vs) constituency parsing in ```Question-Filter-Comparison.ipynb```
 - annotator agreement measures in ```Annotation-Quality.ipynb```
 - Perspective API toxicity classifier's performance on our dataset in ```/perspective-api-analysis/```
